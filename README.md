@@ -30,4 +30,4 @@ The Great Depression job search website
 
 *NOTE: First time installing will be very slow but it will run much faster subsequently*
 
-*If you are a ByteHacks reviewer, contact me @ ppkhiemnguyen@gmail.com to get a demo `bfk.json` file*
+*If you are a ByteHacks reviewer, contact @ ppkhiemnguyen@gmail.com to get a demo `bfk.json` file*
